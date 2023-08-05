@@ -1,0 +1,8 @@
+2023-08-03 20:59:37.680024 - __call__(): incompatible function arguments. The following argument types are supported:
+    1. (self: _dlib_pybind11.fhog_object_detector, image: numpy.ndarray, upsample_num_times: int = 0) -> _dlib_pybind11.rectangles
+
+Invoked with: <_dlib_pybind11.fhog_object_detector object at 0x00000233EEDA4970>, None, 1
+2023-08-03 20:59:48.425539 - __call__(): incompatible function arguments. The following argument types are supported:
+    1. (self: _dlib_pybind11.fhog_object_detector, image: numpy.ndarray, upsample_num_times: int = 0) -> _dlib_pybind11.rectangles
+
+Invoked with: <_dlib_pybind11.fhog_object_detector object at 0x00000233EEDA4970>, None, 1
